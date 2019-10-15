@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "target": "es2015",
+        "module": "commonjs",
+        "outDir": "bin",
+        "watch": true,
+        "lib": ["dom", "es2015"],
+        "sourceMap": false
+    }
+}
